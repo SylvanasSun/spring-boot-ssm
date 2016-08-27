@@ -1,7 +1,7 @@
 package com.sun.sylvanas.controller;
 
 import com.sun.sylvanas.pojo.Animal;
-import com.sun.sylvanas.service.impl.AnimalService;
+import com.sun.sylvanas.service.AnimalService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestMapping;
